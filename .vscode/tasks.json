@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "showOutput": "never",
+    "isShellCommand": true,
+    "command": "sass",
+    "args": ["style.scss","style.css"]
+}
