@@ -1,1 +1,23 @@
-{"truc":[{"prix":23,"name":"pomme"},{"prix":1200,"name":"le petit doigt rama"},{"prix":1,"name":"ptitim"},{"prix":23,"name":"table"}]}
+{
+	"truc": [{
+		"prix": 23,
+		"name": "pomme sexy et moderne",
+        "source": "asset/pommes-de-terre-au-four-2.jpg",
+		"stock": 200
+	}, {
+		"prix": 12e+100,
+		"name": "le petit doigt rama",
+        "source": "asset/pitidoigt.jpeg",
+		"stock": 2
+	}, {
+		"prix": 1,
+		"name": "salade deux ptitim: le retour",
+        "source": "asset/slack-imgs.com.jpeg",
+	   "stock": 1
+	}, {
+		"prix": 23,
+		"name": "table",
+        "source": "asset/table-de-multiplication.png",
+	  	"stock": 8
+	}]
+}
